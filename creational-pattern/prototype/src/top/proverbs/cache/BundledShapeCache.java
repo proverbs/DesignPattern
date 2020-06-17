@@ -7,6 +7,9 @@ import top.proverbs.shapes.Shape;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Prototype registry.
+ * */
 public class BundledShapeCache {
     private Map<String, Shape> cache = new HashMap<>();
 
