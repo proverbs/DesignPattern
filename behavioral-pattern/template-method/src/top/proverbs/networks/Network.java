@@ -2,7 +2,7 @@ package top.proverbs.networks;
 
 /**
  * Base class of social network.
- * let subclasses override the steps without changing the overall algorithm’s structure.
+ *
  */
 public abstract class Network {
     String userName;
